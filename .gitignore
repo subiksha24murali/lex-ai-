@@ -1,0 +1,11 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+
+data/vector_store/
+data/processed/
+data/users.db
+
+.streamlit/secrets.toml

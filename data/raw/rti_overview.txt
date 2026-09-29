@@ -1,0 +1,33 @@
+[DEMO PLACEHOLDER CONTENT — replace with the official Right to Information
+Act, 2005 text from indiacode.nic.in before using this system for real
+answers.]
+
+Right to Information (RTI) — Overview
+
+The Right to Information Act, 2005 allows any citizen of India to request
+information from a "public authority" — essentially any government body or
+body substantially funded by the government. This can be used to check the
+status of an application (such as a ration card, pension, or certificate),
+understand why a decision was made, or get copies of official records.
+
+To file an RTI request, a citizen writes an application addressed to the
+Public Information Officer (PIO) of the relevant department, clearly
+stating the information sought. Applications can usually be submitted in
+person, by post, or online through the department's or the central RTI
+portal, along with a small application fee (fee waived for applicants
+below the poverty line, subject to proof).
+
+The PIO is required to respond within 30 days of receiving the request; if
+the information concerns the life or liberty of a person, the response
+must come within 48 hours. If no response is received, or the applicant is
+unsatisfied with the response, they can file a first appeal with the
+department's Appellate Authority, and subsequently a second appeal with the
+State or Central Information Commission.
+
+Documents needed: a clearly written application specifying the exact
+information sought, proof of fee payment, and (if applicable) proof of BPL
+status for a fee waiver.
+
+Responsible authority: Public Information Officer (PIO) of the relevant
+department; Appellate Authority for first appeal; State/Central Information
+Commission for second appeal.

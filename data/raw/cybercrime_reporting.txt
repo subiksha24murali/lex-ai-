@@ -1,0 +1,34 @@
+[DEMO PLACEHOLDER CONTENT — replace with verified guidance from
+cybercrime.gov.in and the Information Technology Act, 2000 before using
+this system for real answers.]
+
+Reporting Cyber Crime and Online Fraud — Overview
+
+Citizens who experience online fraud (UPI/payment fraud, phishing, fake job
+offers, digital arrest scams, identity theft, hacking, or online
+harassment) can report it through the National Cyber Crime Reporting
+Portal at cybercrime.gov.in, or by calling the National Cyber Crime
+Helpline number 1930. Financial fraud cases reported quickly (ideally
+within a few hours) have a significantly higher chance of the transaction
+being reversed or the funds frozen before they are withdrawn.
+
+When reporting, it helps to have: the transaction ID or UTR number (for
+payment fraud), screenshots of the fraudulent message or call, the phone
+number or account details of the fraudster if known, and a timeline of
+what happened.
+
+For non-financial cybercrime (harassment, hacking, fake profiles), a
+complaint can also be filed at the nearest police station's Cyber Crime
+Cell, in addition to the online portal.
+
+"Digital arrest" scams — where a caller impersonates a police officer,
+customs official, or CBI official and claims the victim is under
+investigation and must stay on a video call and transfer money — are not a
+real legal procedure. No Indian law enforcement agency conducts arrests or
+investigations over a phone or video call, and citizens should treat any
+such call as a scam and report it immediately via 1930 or
+cybercrime.gov.in.
+
+Responsible authority: National Cyber Crime Reporting Portal
+(cybercrime.gov.in), National Cyber Crime Helpline (1930), or the local
+Cyber Crime Cell at a police station.
